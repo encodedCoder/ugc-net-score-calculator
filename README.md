@@ -1,5 +1,5 @@
 # ugc-net-score-calculator
-This is fun python code to calculate the Marks in UGC-NET exam. Before the release of UGC-NET exam result, UGC releases answer-key and response sheet. To fellows like me who wanted to know their score, as score is not provided by UGC yet (when they release the answer key and response sheet), will have to manually match their reponses with the answer key to calculate the score. And as programmer, I don't believe in manual operations when it can be automated. Therefore, this is a fun, experiment score calculator program. This calculates the total number of correctly answered questions, and prints an array of all correctly answered questions.
+This is fun python code to calculate the Marks in UGC-NET exam. Before the release of UGC-NET exam result, UGC releases answer-key and response sheet. To fellows like me who wanted to know their score, as score is not provided by UGC yet (when they release the answer key and response sheet), will have to manually match their reponses with the answer key to calculate the score. I'm a programmer, I don't believe in manual operations when it can be automated. Therefore, this is a fun, experiment score calculator program. This calculates the total number of correctly answered questions, and prints an array of all correctly answered questions.
 
 # How to use it:
 Follow the following steps 
