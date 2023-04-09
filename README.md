@@ -1,4 +1,4 @@
-# ugc-net-score-calculator
+# ugc-net-score-calculator [[Updated after final answer key release]]
 This is fun python code to calculate the Marks in UGC-NET exam. Before the release of UGC-NET exam result, UGC releases answer-key and response sheet. To fellows like me who wanted to know their score, as score is not provided by UGC yet (when they release the answer key and response sheet), will have to manually match their reponses with the answer key to calculate the score. I'm a programmer, I don't believe in manual operations when it can be automated. Therefore, this is a fun, experiment score calculator program. This calculates the total number of correctly answered questions, and prints an array of all correctly answered questions.
 
 # How to use it:
@@ -9,6 +9,7 @@ Follow these steps to use this program:
     i. Total number of correctly answered questions
     ii. Total score
     iii. An array of correctly answered questions
+  4. This is updated version: after the release of final answer key. File "main-from_final_ans_key.py" contains the logic for calculation of final score. This is nothing but little updation on main.py file as a new separate file. Magic of couple of clicks calculates the score and fun keeps on. 
 
 Follow these steps, within 2 minutes (just like Meggi) you have your score, while in manual couting it will take around 25-30 minutes and hell of headache comes unsolicitated with such approach.
 
